@@ -1,0 +1,1605 @@
+
+Synthetic and Natural Coumarins as Cytotoxic Agents
+Irena Kostova*
+Department of Chemistry, Faculty of Pharmacy, Medical University, 2 Dunav St., Sofia 1000, Bulgaria
+Abstract: Coumarins, an old class of compounds, are naturally occurring benzopyrene derivatives. A lot of coumarins
+have been identified from natural sources, especially green plants. The pharmacological and biochemical properties and
+therapeutic applications of simple coumarins depend upon the pattern of substitution. Coumarins have attracted intense
+interest in recent years because of their diverse pharmacological properties. Among these properties, their cytotoxic
+effects were most extensively examined. In this review, their broad range of effects on the tumors as shown by various in
+vitro and in vivo experiments and clinical studies are discussed. Hence, these cytotoxic coumarins represent an exploitable
+source of new anticancer agents, which might also help addressing side-toxicity and resistance phenomena. These natural
+compounds have served as valuable leads for further design and synthesis of more active analogues. In this review, plant
+derived coumarins and their synthetic analogues were systematically evaluated based on their plant origin, structureactivity relationship and anticancer efficacy. Owing the their diverse effects and inconclusive results from different in
+vitro studies, the mechanism of their action is not yet fully understood and correlation of effects with chemical structures
+is not conclusive at the moment. It is the objective of this review to summarize experimental data for different coumarins,
+used as cytotoxic agents, because promising data have been reported for a series of these agents. Yet, the results from
+different coumarins with various tumor lines are contradictory in part. We therefore conclude that there is still a long way
+to go until we know which cytotoxic agent will clinically be suitable for what tumor entity for treatment. Their ability to
+bind metal ions represents an additional means of modulating their pharmacological responses.
+Key Words: Synthetic and natural coumarins, cytotoxicity.
+INTRODUCTION
+Numerous compounds with biological activity have been
+investigated, however many of them are not suitable for
+therapeutic use due to their toxic, carcinogenic and mutagenic properties. Nowadays, it is possible to make
+modifications of active chemical structures, in order to
+synthesize compounds with improved therapeutic activity
+and reduced toxicity.
+A variety of herbs and herbal extracts contain different
+phytochemicals with biological activity that can provide
+therapeutic effects. Several herbs can help to provide some
+protection against cancer and stimulate the immune system.
+Coumarins comprise a group of natural compounds found
+in a variety of plant sources. The very long association of
+plant coumarins with various animal species and other
+organisms throughout evolution may account for the
+extraordinary range of biochemical and pharmacological
+activities of these chemicals in mammalian and other
+biological systems. The coumarins that were studied have
+divers biological properties and various effects on the
+different cellular systems. A lot of biological parameters
+should be evaluated to increase our understanding of
+mechanisms by which these coumarins act. Coumarins have
+important effects in plant biochemistry and physiology,
+acting as antioxidants, enzyme inhibitors and precursors of
+toxic substances. In addition, these compounds are involved
+*Address correspondence to this author at the Department of Chemistry,
+Faculty of Pharmacy, Medical University, 2 Dunav St., Sofia 1000,
+Bulgaria; Tel: 92 36 569; Fax: 987 987 4; E-mail: irenakostova@yahoo.com
+in the actions of plant growth hormones and growth
+regulators, the control of respiration, photosynthesis, as well
+as defense against infection. The coumarins have long been
+recognized to possess anti-inflammatory, antioxidant, antiallergic, hepatoprotective, antithrombotic, antiviral, and
+anticarcinogenic activities. The hydroxycoumarins are
+typical phenolic compounds and, therefore, act as potent
+metal chelators and free radical scavengers. They are
+powerful chain-breaking antioxidants. The coumarins
+display a remarkable array of biochemical and pharmacological actions, some of which suggest that certain members
+of this group of compounds may significantly affect the
+function of various mammalian cellular systems.
+The coumarins are extremely variable in structure, due to
+the various types of substitutions in their basic structure,
+which can influence their biological activity. A careful
+structure-system-activity-relationship study of coumarins
+with special respect to carcinogenicity, mutagenicity, and
+cancer-preventing activities should be conducted. Vast
+majority of coumarins, completely innocuous, may be
+beneficial in a variety of human disorders, in spite of some
+ongoing controversy.
+The naturally occurring coumarins will be the primary
+focus of this review, with occasional reference to synthetic
+compounds. The review is not exhaustive; it is intended to
+acquaint the reader with this interesting group of natural
+plant compounds. There has been, in recent years, a major
+rekindling of interest in pharmacognosy. Coumarins turn out
+to be present in many natural therapeutically utilized
+products. They hold a place apart in view of their cytotoxic
+activity. It was suggested that alterations in the chemical
+30 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+structure of coumarins could change their cytotoxic
+properties.
+Actually, in vitro cytotoxicity assays with cultured cells
+are widely used to chemicals including cancer chemotherapeutics, pharmaceuticals, biomaterials, natural toxins,
+antimicrobial agents and industrial chemicals because they
+are rapid and economical. These cytotoxicity tests measure
+the concentration of the substance that damages components,
+structures or cellular biochemical pathways, and they also
+allow direct extrapolation of quantitative data to similar in
+vitro situations.
+SYNTHETIC AND SEMI-SYNTHETIC SIMPLE
+COUMARINS
+Coumarin (1, 2-benzopyrone) (1), the parent molecule of
+coumarin derivatives, is the simplest compound of a large
+class of naturally occurring phenolic substances made of
+fused benzene and a-pyrone rings [1]. The investigation of
+coumarin compounds revealed that a wide spectrum of
+medicinal plant extracts that were in use as early as 1000
+A.D. contains a high content of coumarins. Subsequent
+analysis of scientific literature revealed numerous reports on
+the antiproliferative and antitumor activities of a variety of
+coumarin compounds, e.g., both coumarin itself and 7-
+hydroxycoumarin (2) have been reported to inhibit the
+proliferation of a number of human malignant cell lines in
+vitro [2-5] and have demonstrated activity against several
+types of animal tumors [6-10]. These compounds have also
+been reported in clinical trials to demonstrate activity against
+prostate cancer, malignant melanoma, and metastatic renal
+cell carcinoma [11-13].
+For coumarins, generally the in vitro structure-activity
+relationship studies have shown that cytotoxicity is found
+with derivatives containing ortho-dihydroxy substituents
+(Kolodziej et al., 1997, [14]). Also, the chemical-structure/
+biological activity study of the coumarins showed that the
+addition of a cathecolic group to the basic structure induces
+increased cytotoxic activity in tumor cell lines (Kolodziej et
+al., 1997, [14]). The different cytotoxic values found for the
+coumarins could be related to presence and the positions of
+the hydroxyls in their structures.
+The cytotoxicity of 22 natural and semi-synthetic simple
+coumarins was evaluated in GLC4, a human small cell lung
+carcinoma cell line, and in COLO 320, a human colorectal
+cancer cell line, using the microculture tetrazolium (MTT)
+assay [14]. With IC50 values > 100 mM, following a
+continuous (96 h) incubation, most coumarins exhibited only
+low cytotoxicity. Several compounds, however, displayed
+significant potencies. As far as the structure-cytotoxicity
+relationship is concerned, it is conspicuous that all the
+potentially active natural compounds possess at least two
+phenolic groups in either the 6, 7- or 6, 8-positions. In
+addition, the 5-formyl-6-hydroxy substituted semi-synthetic
+analogue was found to be potent, reflecting the importance
+of at least two polar functions for high cytotoxicity.
+Several hydroxylated and/or methoxylated coumarin
+derivatives were tested for their relative cytotoxicity on four
+human tumor cell lines (oral squamous cell carcinoma HSC2, HSC-3, melanoma A-375 and promyelocytic HL-60) and
+three normal human cells (gingival fibroblast HGF,
+periodontal ligament fibroblast HPLF and pulp cell HPC)
+[15]. Tumor cell-specific cytotoxicity was detected in all 6,
+7-dihydroxy-substituted coumarins only. The observations
+indicate that the tumor-specific cytotoxicity of the naturally
+occurring coumarin esculetin (6, 7-dihydroxycoumarin) (3)
+can be further enhanced by proper substitutions at 3- and/or
+4-position(s) of the molecule. Agarose gel electrophoresis
+revealed that esculetin and its derivatives with tumor-specific
+cytotoxicity induce internucleosomal DNA fragmentation in
+HL-60 cells.
+Ratanasavanh D. et al. [16] compared the cytotoxic effect
+of coumarin and its derivatives, 7-hydroxycoumarin, 4-
+hydroxycoumarin (4), o-hydroxyphenyl acetic acid and ocoumaric acid (5), on cultured hepatocytes from human, rat,
+mouse and rabbit liver. At 10-5 and 5.10-5 M, coumarin and
+its derivatives did not give rise to any signs of toxicity on
+cultured hepatocytes of the four species. At 10-4 M,
+coumarin, but not its derivatives, induced release of lactate
+dehydrogenase (LDH) into the medium, especially in rat
+hepatocyte cultures. Intracellular LDH activities were
+correspondingly reduced. The cytotoxic effect of coumarin
+in cultured rat hepatocytes was evidenced on morphological
+examination and from the results of the 3-(4, 5-
+dimethylthiazol-2-yl)-2, 5-diphenyltetrazolium (MTT)
+reduction test. At higher concentrations (5 .10-4 M), 7-
+hydroxycoumarin and o-coumaric acid were also found to be
+cytotoxic in cultured rat hepatocytes. The cytotoxic effect of
+coumarin (5.10-4 M) was decreased in the presence of SKF
+525-A, a cytochrome P450 inhibitor. Interspecies comparisons showed that rat hepatocytes were the most sensitive to
+the toxicity of coumarin and its derivatives, whereas human
+hepatocytes were the most resistant. The results suggest that
+the cytotoxicity of coumarin is metabolism and speciesdependent. Thus, the rat may not be a suitable model for
+evaluating the pharmacological hazards of coumarin in
+humans.
+Coumarin, 4- hydroxycoumarin and 7- hydroxycoumarin,
+as well as o-, m-coumaric acid (6) and p-coumaric acid (7)
+were tested against P-815 and P-388 tumor cells in vitro
+[17]. In addition, the compounds were investigated in
+various in vitro immunological test systems and genuine
+coumarin was tested furthermore against the Sarcoma-180 in
+CD1 mice. In vivo, coumarin showed only a moderate
+antitumor effect against the allogeneic Sarcoma-180 at
+concentrations of 10 and 40 mg/kg, with inhibition rates of
+49 and 60%, respectively. However, both concentrations
+were markedly toxic. In vitro all compounds were more or
+less cytotoxic against P-815 and P-388 tumor cell lines
+starting at a concentration of 100 mg/mL. At subtoxic
+concentrations (less than or equal to 10 mg/mL) the samples
+showed no mitogenic activity against murine spleen
+lymphocytes and PHA costimulated human peripheral blood
+lymphocytes. Furthermore, with the coumarin derivatives
+neither cytotoxic macrophages could be induced against P815 tumor cells nor an increased release of Il-2 and TNFalpha could be observed. Only 7- hydroxycoumarin, in
+concentrations of 2 and 20 mg/mL, caused a strong increase
+in phagocytosis of 124 and 84% in both, human peripheral
+blood granulocytes and murine peritoneal macrophages,
+respectively.
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 31
+A selection of natural and synthetic coumarin compounds, including the hydroxylated and nitrated derivatives,
+were assessed for their cytotoxic potential using the
+microculture 3-(4, 5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazolium bromide (MTT) assay for cellular viability [18].
+For the first time this study utilized both human skin
+malignant melanocytes (SK-MEL-31) and normal human
+skin fibroblastic cells (HS613.SK), allowing identification of
+those coumarin derivatives that are selectively toxic.
+Coumarin was found to exhibit comparatively low toxicity in
+both cell types, while 7-hydroxycoumarin and coumarin had
+similar activity in SK-MEL-31 cells. The entire series of
+hydroxylated coumarins were considerably more toxic in
+HS613.SK than in SK-MEL-31 cells. Novel synthetic
+nitrated coumarins, 6-nitro-7-hydroxycoumarin (8) and 3, 6,
+8-nitro-7-hydroxycoumarin (9), were shown to be significantly more toxic to SK-MEL-31 than HS613.SK cells. In
+the malignant melanocyte skin cell line (SK-MEL-31) the
+cytotoxic effects of these nitro-derivatives were shown to be
+dose and time dependent. Therefore, the cytotoxic potential
+of coumarins appears to be highly dependent on the nature
+and position of the functional group. In addition, nitration of
+7-hydroxycoumarin produced compounds that were
+cytotoxic to malignant melanocytes, suggesting that these
+nitro-derivatives may have a chemotherapeutic role in the
+future.
+Finn G.J. et al. [19] determined the selective cytotoxicity
+of eight coumarin compounds to human renal carcinoma
+cells, relative to non-carcinoma proximal tubular cells.
+Selectivity cytotoxicity was observed following exposure to
+6-nitro-7-hydroxycoumarin and 7, 8-dihydroxycoumarin
+(10). 6-Nitro-7-hydroxycoumarin induced cytotoxicity was
+irreversible in both cell lines, unlike 7, 8-dihydroxycoumarin, which was reversible in the carcinoma cells only.
+Mobility shift and BrdU incorporation assays showed that
+both compounds did not intercalate DNA but had a
+concentration-dependent inhibitory effect on its synthesis.
+All coumarins studied were found to be non-mutagenic using
+the standard Ames test. These results would suggest that 6-
+nitro-7-hydroxycoumarin and 7, 8-dihydroxycoumarin might
+have a therapeutic role to play in the treatment of renal cell
+carcinoma.
+A derivative of coumarin, 8-nitro-7-hydroxycoumarin
+(11), was synthesised, purified and characterised [20]. The
+cytostatic and cytotoxic nature of this compound was
+determined using both human and animal cell lines grown in
+vitro for 96 h in the presence of drug (0-500 mM, equivalent
+to 0-104 mg/mL). 8-Nitro-7-hydroxycoumarin was shown to
+be cytotoxic to three cell lines, but cytostatic to all cell lines
+tested. With K562 and HL-60 cells, cell death was found to
+occur by apoptosis. This cytotoxic effect was found to be
+irreversible, with cell death continuing to occur following a
+96 h recovery period. The cytostatic effects were found to be
+irreversible in four of the five cell lines tested. 8-Nitro-7-
+hydroxycoumarin demonstrated its cytostatic effects within
+24 or 48 h, while its cytotoxic effects appeared more
+gradually. The IC50 of 8-nitro-7-hydroxycoumarin was 475-
+880 mM, depending on the cell line tested. It was shown to
+exert its cytostatic effect through an alteration of cell cycle.
+It also inhibited DNA synthesis. The toxicity of 8-nitro-7-
+hydroxycoumarin does not appear to be mediated through
+the multi-drug resistance (MDR) protein since it caused
+significant cytostatic and cytotoxic effects to CHrC5 cells,
+which have an increased expression of this protein. This
+compound was shown to be non-mutagenic in a standard
+Ames test, both with or without a mammalian enzyme
+activation system. The applications and mode of actions of
+coumarins are discussed.
+Ten 6, 12-dihydro-1-benzopyrano[3, 4-b][1, 4]benzothiazin-6-ones and other related coumarins were compared for
+their cytotoxic activity and radical intensity [21]. These
+compounds showed highest cytotoxic activity against human
+promyelocytic leukemic HL-60 cells. They produced radicals
+under alkaline conditions, and showed low pi-spin density at
+S-atom of the molecule, suggesting the delocalization of pispin density. These data suggest the possible relation
+between radical intensity and biological activity. The
+cytotoxic effects and alkylating activity of a series of 3-[1-
+(alkylamino)-ethylidene]-chroman-2, 4-dione, 2-methoxy-3-
+[1-(alkylamino)-ethylidene]-2,3-dihydro-2,4-dioxo-2lambda-
+(5)-benzo[e][1,2] oxaphosphinane and [2-oxo-4-phenyl
+(alkyl)-2H-chromen-3-yl]-phosphonic acids dimethyl ester
+on the two leukemia cell lines HL-60 and NALM-6 have
+been determined [22]. The test compounds are much more
+toxic to NALM-6 cells than to HL-60 cells. IC50 data are up
+to nine times lower for the NALM-6 than for the HL-60 cell
+lines. As determined in an in vitro Preussmann test
+phosphonic derivatives [2-oxo-4-phenyl(alkyl)-2H-chromen3-yl]-phosphonic acids dimethyl ester possess very high
+alkylating activity, phosphoric derivatives are less active
+while the derivatives of 3-[1-(alkylamino)-ethylidene]-
+chroman-2, 4-dione can be included in the group of low
+activity alkylating agents. Using regression analysis QSAR
+the authors found a relationship between biological activity
+and the physicochemical properties of the test compounds.
+Their cytotoxic effect increases with an increase of the
+hydrophobic parameters in the region of the substituents at
+the 2-, 3- and 4-positions of the benzopyrone skeleton of the
+compounds. Several aromatic seleno lactones have been
+synthesized and shown to possess significant inhibitory
+activity against human colon tumor-8r cells in culture at
+concentrations lower than 1mM [23]. Although all of the
+compounds tested were found to be active, 5-hydroxy-3-
+[(phenylseleno)methyl]hydrocoumarinoctanoate and 5-
+hydroxy-3-[(phenylseleno)methyl]hydrocoumarin-decanoate
+were found to be the most effective in inhibiting cell growth.
+In situ formation of the corresponding alpha-methylene
+lactones is postulated to account for the cytotoxic activity in
+this class of compounds.
+COUMARIN ANTICOAGULANTS AND CYTOTOXICITY
+The possibility of a relation between the clotting
+mechanism and the development of metastases was
+postulated as early as 1878, when Billroth described cancer
+cells within a thrombus and interpreted his finding as
+evidence of the spread of tumor cells by thromboembolism.
+Only a few published studies of the therapeutic efficacy of
+anticoagulants against cancer were appropriately designed
+randomized trials; otherwise, they have been mainly case
+descriptions, retrospective epidemiologic reviews, and small
+phase 1 or 2 trials [24]. Moreover, in most trials, the
+32 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+treatment included a combination of cytotoxic drugs plus an
+anticoagulant. For this reason, we do not know whether the
+possible benefit of anticoagulation was due to an effect on
+the clotting system, a direct cytotoxic activity of the anticoagulant [25], or a change in the pharmacokinetics of the
+cytotoxic drugs caused by the anticoagulant [26]. Warfarin
+(12) (a coumarin anticoagulant) therapy was reported to
+improve the survival of patients with small-cell lung cancer,
+but this finding has never been confirmed [25]. The results,
+obtained, suggest that there may be some survival benefit to
+anticoagulation in the treatment of small-cell lung cancer.
+The effect is probably not large, judging by the difficulty in
+reaching statistical significance, but there does appear to be a
+consistent small benefit. The administration of low levels of
+anticoagulant is, in general, much less toxic and expensive
+than the addition of another chemotherapy agent, or the use
+of high-dose chemotherapy with stem cell support. While
+intriguing, however, the data are not sufficiently convincing
+to alter current clinical practice. There is renewed interest in
+determining whether anticoagulation may improve survival
+in oncology patients. Although there are many hypotheses for
+in vitro antitumor activity of anticoagulants, the practical
+question is whether anticoagulants affect cancer mortality in
+a clinical setting.
+Coumarin anticoagulants inhibit metastasis in several
+animal models, but the mechanism of this effect is uncertain.
+In order to determine the role of cytotoxic and/or cytostatic
+actions of coumarins on the tumour cells, McCulloch P. et
+al. [27] have studied the effects of warfarin on tumour cell
+growth in a model in which tumour metastasis is inhibited by
+this drug. Clonogenic assay, growth curve analysis and
+thymidine labelling index revealed that warfarin had no
+effects on Mtln3 mammary carcinoma cell growth in vitro at
+concentrations below 1 mM. The growth rate of subcutaneously implanted Mtln3 tumour deposits in female
+F344 rats, assessed by weight and by stathmokinetic analysis
+of the tumour tissue, was identical in warfarin-treated and
+control animals. Spontaneous metastasis from such tumours
+to the lungs was, however, significantly reduced in warfarintreated animals (median 0 pulmonary tumours per animal in
+warfarin treated, eight tumours per animal in control
+animals; P less than 0.05, Mann-Whitney). The mean plasma
+warfarin concentration in warfarin treated rats was 1.63 _M.
+These results suggest that warfarin treatment of the host
+animal can inhibit tumour metastasis without having any
+direct or indirect effect on the growth rate of the tumour
+cells.
+The coumarin anticoagulants, dicoumarol (Dicumarol)
+(13) and its synthetic derivative warfarin sodium
+(Coumadin) (14), have been shown to decrease metastases in
+experimental animals [28]. Warfarin sodium, largely
+replacing dicoumarol therapeutically as an anticoagulant, has
+been used for the treatment of a variety of cancers and shown
+to improve tumor response rates and survival in patients with
+several types of cancer [29]. However, despite numerous
+studies, little information has been acquired on the cellular
+mechanism of action of coumarin compounds in the treatment of malignancies. Possibly for this reason, the coumarin
+compounds have not received much attention for the
+treatment of cancer. Earlier studies revealed that coumarin, 7-
+hydroxycoumarin, and 4-hydroxycoumarin inhibit mitosis in
+Allium cepa root tips [30]. Interestingly, 7-hydroxycoumarin
+disorganized the mitotic spindle microtubules in A. cepa
+cells, leading to the random distribution of the chromosomes
+at metaphase. This is a form of cytotoxicity common to
+mitotic spindle poisons that inhibit mitosis by modifying
+microtubule dynamics. On further investigation of the
+coumarin literature, it was developed the hypothesis that
+coumarin compounds might inhibit cell proliferation by
+interfering with mitotic spindle microtubule function [31].
+Dicoumarol, a natural anticoagulant drug chemically
+designated as 3, 3'-methylenebis[4-hydroxycoumarin], is
+metabolized from coumarin in the sweet clover (Melilotus
+alba and Melilotus officinalis) by molds, such as Penicillium
+nigricans and Penicillium jensi. In studies on the antiproliferative actions of coumarin compounds, Hamta Madari
+et al. [31] discovered that dicoumarol inhibits the first
+cleavage of Strongylocentrotus purpuratus (sea urchin)
+embryos in a concentration-dependent manner with 50%
+inhibition occurring at a concentration of 10 µM. The results
+suggest that the antiproliferative mechanism of action of
+dicoumarol and possibly related pharmacophores may be
+mediated by tubulin binding and the stabilization of spindle
+microtubule dynamics. Because of its low toxicity and
+simple chemical structure, there is potential interest to
+explore combinations of antimitotic coumarins with other
+chemotherapeutic agents to improve efficacy and lower
+toxicity. The results suggest that dicoumarol and Taxol have
+the potential to be used together to improve efficacy and
+lower toxicity. It is also possible that the coumarin anticoagulants in combination with Taxol may improve cancer
+survival rates by other mechanisms. Tumor cell invasion is
+dependent on angiogenesis and requires both cell migration
+and digestion of basement membrane by proteases. Anticoagulants were thought to reduce the incidence of cancer
+metastases by inhibiting formation of a fibrin matrix required
+for the fixation of circulating cancer cells. Because Taxol has
+been reported to inhibit migration of human ovarian and
+prostate carcinoma cells and the coumarin anticoagulants
+inhibit the thrombin-induced release of matrix metalloproteinases that cause the breakdown of extracellular matrix
+proteins, it is logical to assume that dicoumarol might
+enhance the antiadhesive activity of taxanes. Coumarin
+anticoagulants inhibit the pathway involving tissue factor and
+factor VIIa. Tissue factor VIIa appears to be a major factor in
+the regulation of angiogenic growth properties of tumor cells,
+and in vivo studies have demonstrated a significant role for
+warfarin in the regulation of the inhibition of angiogenesis
+[32]. Taxol also has been shown to display antiangiogenic
+properties in association with the down-regulation of
+vascular endothelial growth factor, a pro-angiogenic factor
+that can act directly on endothelial cells to promote vessel
+formation. Because these two compounds possess the ability
+to inhibit angiogenesis by different mechanisms, it is
+possible that when combined, they can produce a synergistic
+effect on the inhibition of tumor growth by a mechanism
+other than stabilization of microtubule dynamic instability. It
+is however important to stress that although coumarin
+comprises the substructure of dicoumarol and warfarin, it
+does not contain any anticoagulant properties. It would be of
+great interest to further investigate the potential antiangiogenic effect of coumarin anticoagulants and Taxol
+combinations in vitro and in vivo. Dicoumarol and coumarins
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 33
+could provide a new structural class for synthetic elaboration
+that could lead to improved antineoplastic drugs. The simple
+chemical structure of the coumarins allows great potential to
+clinically explore combinations of coumarin analogs with
+other microtubule-stabilizing agents in an attempt to improve
+efficacy. In addition, dicoumarol and possibly other
+coumarin compounds that act by stabilizing microtubule
+dynamics might have entirely new tumor specificity than the
+currently used antimitotic agents. Their synergistic activity in
+combination therapy could be the basis for development of
+rational approaches to new forms of cancer chemotherapy.
+Table 1. Structures of Coumarins used as Cytotoxic Agents
+O O
+3
+5 4
+6
+7
+8
+Compound R3 R4 R5 R6 R7 R8
+1 Coumarin H H H H H H
+2 7-hydroxycoumarin (Umbelliferone) H H H H OH H
+3 6,7-dihydroxycoumarin (Esculetin) H H H OH OH H
+4 4-hydroxycoumarin H OH H H H H
+8 6-nitro-7-hydroxycoumarin H H H NO2 OH H
+9 3,6,8-nitro-7-hydroxycoumarin NO2 H H NO2 OH NO2
+10 7,8-dihydroxycoumarin (Daphnetin) H H H H OH OH
+11 8-nitro-7-hydroxycoumarin H H H H OH NO2
+15 Coumarin-3-carboxylic acid COOH H H H H H
+16 6,7-dihydroxy-4,4-dimethylhydrocoumarin 2H 2Me H OH OH H
+17 4-methyl-6,7-dihydroxycoumarin H Me H OH OH H
+18 Fraxetin H H H OMe OH OH
+20 Esculin H H H OGl OH H
+21 Auraptene H H H H OGer H
+22 3-methylcoumarin Me H H H H H
+23 4-methylcoumarin H Me H H H H
+24 3,4-dimethylcoumarin Me Me H H H H
+25 4-methyl-7-hydroxycoumarin (Mendiaxon) H Me H H OH H
+28 Scopoletin H H H OMe OH H
+32 Pervilleanine Ph H H H H H
+33 5,7-dihydroxy-6-methyl-4-phenyl-8-(3-
+phenylpropionyl)coumarin H Ph OH Me OH 3-phenylpropionyl
+34 5,7-dihydroxy-6-methyl-4-phenyl-8-(3-phenyltrans-acryloyl)coumarin H Ph OH Me OH 3-phenyl-transacryloyl
+35 5,7-dihydroxy-6-methyl-4-phenyl-8-(2-hydroxy-3-
+phenylpropionyl)coumarin H Ph OH Me OH 2-hydroxy-3-
+phenylpropionyl
+36 5-(4-hydroxyphenethenyl)-4,7-dimethoxycoumarin H OMe 4-hydroxy-phenethenyl H OMe H
+37 3,8-dimethyl-5-isopropyl-6-methoxycoumarin
+(mansonrin A) Me H Isopropyl OMe H Me
+38 3,8-dimethyl-5-isopropyl-6-hydroxycoumarin
+(mansorin B) Me H Isopropyl OH H Me
+34 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+A selective stimulatory effect of dicoumarol on 2, 7-
+diaminomitosene-DNA adduct formation in EMT6 cells
+treated with mitomycin C was investigated [33]. Dicumarol
+had no effect on alkylation by mitomycin C in cell-free
+systems, nor did it have significant effects on adduct formation or cell survival for cells treated with 2, 7- diaminomitosene. It is proposed that in the cell dicumarol stimulates
+a reductase enzyme located at subcellular sites where the
+activated mitomycin C species has no direct access to DNA
+and therefore is diverted into the non-cytotoxic pathway,
+which leads to the formation of 2, 7- diaminomitosene and
+its adducts.
+COUMARIN ANTIOXIDANTS AND CYTOTOXICITY
+Plant phenolics are widely consumed and have received
+considerable attention as anticarcinogens. Tumor-modulating
+effects of coumarin antioxidants also have been studied
+using carcinogens. Protective mechanisms include inhibition
+of prooxidant carcinogenesis by peroxisome proliferators,
+antipromotion effects, and induction of detoxifying enzymes.
+The effects of antioxidants in animal studies are complex,
+however, and also include tumor promotion, carcinogenic,
+and co-carcinogenic activities. The most attractive candidate
+anticarcinogens, however, are those that suppress the rate at
+which initiated cells progress through the promotionprogression-metastasis pathway without appreciable toxicity,
+since their application does not require knowledge of the
+initiating carcinogen and, by definition, will not have tumor
+promotional properties.
+The ability to control the amount and the rate of production of hydroxyl radicals may prove useful for examining the
+cytotoxic effects of hydroxyl radicals generated in biological
+systems. The kinetics of the production of hydroxyl radicals
+during the autoxidation of ferrous ion complexes at pH 7.4
+was investigated using the fluorescent probe coumarin-3-
+carboxylic acid (15) [34]. The data presented indicate the
+usefulness of autoxidation of ferrous ion complexes for
+generation of hydroxyl radicals in chemical systems.
+Nishiyama T. et al. [35] compared the antioxidative
+activities of seven hydrocoumarins with those of alphatocopherol for the oxidation of tetralin and linoleic acid in a
+homogeneous solution. Hydrocoumarins exhibited a higher
+induction period than that of alpha-Toc in both systems.
+However, the rate of oxygen absorption during the induction
+period for alpha-Toc was slower than that of the hydrocoumarins in both systems. In addition, 6, 7-dihydroxy-4, 4-
+dimethylhydrocoumarin (16) showed less cytotoxicity
+toward human fibroblasts than did 2, 6-di-t-butyl-4-methylphenol.
+Protective effects of coumarins against cytotoxicity
+induced by linoleic acid hydroperoxide were examined in
+cultured human umbilical vein endothelial cells [36]. When
+the cells were incubated in medium supplemented with
+linoleic acid hydroperoxide and coumarins, esculetin (6, 7-
+dihydroxycoumarin) and 4-methylesculetin (17) protected
+cells from injury by linoleic acid hydroperoxide. Fraxetin
+(18) and caffeic acid (19) showed a weak protection. Esculin
+(20) as well as esculetin and 4-methylesculetin were effective for protecting cells against linoleic acid hydroperoxideinduced cytotoxicity in the case of pretreatment for 24 h,
+however fraxetin and caffeic acid showed no protection.
+Since esculetin was detected after 24 h treatment with
+esculin, a sugar moiety in the esculin molecule appears to be
+hydrolyzed during pretreatment. Coumarins such as
+umbelliferone (7-hydroxycoumarin) containing only one
+hydroxyl group showed no protective effect in pretreatment
+or concurrent treatment. Esculetin and 4-methylesculetin
+provided synergistic protection against cytotoxicity induced
+by linoleic acid hydroperoxide with alpha-tocopherol.
+Furthermore, the radical-scavenging ability of coumarins
+was examined in electron spin resonance spectrometry.
+Esucletin, 4-methylesculetin, fraxetin, and caffeic acid
+showed the quenching effect on the 1, 1-diphenyl-2-picrylhydrazyl radical. These results indicate that the presence of
+an ortho catechol moiety in the coumarin molecules plays an
+important role in the protective activities against linoleic acid
+hydroperoixde-induced cytotoxicity.
+It is well known that dietary factors play an important
+role in enhancement of health status and physical strength in
+humans. Recently, it has been shown that certain foods have
+a host defense function related to the immune system and
+anti-oxidation and anti-tumor activity. The immune system
+plays an important role in physical and chemical carcinogenesis and in tumor-bearing hosts. The role of host immune
+function has become increasingly important in our
+understanding of the mechanisms that are involved in the
+body's ability to prevent cancer. Although the interrelationship between diet, immune function and carcinogenesis is not clear, there is increasing evidence that dietary
+alteration of the host's immune functions is a key component
+of chemoprevention. Macrophages, lymphocytes (T and B
+cells), dendritic and Langerhans' cells and natural killer (NK)
+cells are important cells for the immune system. Macrophages play a major role in inflammation, repair, humoral
+and cellular immunity and metabolic and neoplastic disease
+processes. Cytokines, being mesenger molecules of the
+immune system, modulate natural immunity. It is known that
+several cancer chemopreventive agents can modulate
+immune function.
+An antioxidant auraptene (7-geranyloxycoumarin) (21)
+isolated from the peel of citrus fruit (Citrus natsudaidai
+Hayata) has been reported to have chemopreventive effects
+on chemically induced carcinogenesis. Dietary administration of auraptene significantly increased the activities of
+detoxification (phase II) enzymes, such as quinone reductase
+and glutathione S-transferase, in the liver and colon of rats.
+In addition, expression of cell proliferation biomarkers, such
+as ornithine decarboxylase activity and polyamine biosynthesis, in the colonic mucosal epithelium was significantly
+inhibited by dietary feeding of auraptene. These biological
+functions of auraptene may contribute to its anti-tumorigenic
+effect. However, a modulatory effect of auraptene on
+immune function has not been investigated. The results in the
+study [37] clearly indicate that oral administration of
+auraptene effectively enhances both macrophage and
+lymphocyte functions in mice. The study suggested involvement of the immune response in chemically induced
+carcinogenesis. Auraptene is a naturally occurring coumarinrelated compound. Coumarin derivatives have been reported
+to have enhancing effects on lymphocyte mitogen responsiveness. Therefore, the results in the study suggest that the
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 35
+mitogenic activity of auraptene might be due to the coumarin
+structure, and 200 mg/kg/day might be an appropriate oral
+dose of auraptene to enhance lymphocyte responsiveness.
+The results described in [37] may support the hypothesisthat
+auraptene directly activates macrophage activities, whereasit
+only primes lymphocytes to display a greater immune
+response following interaction of splenic lymphocytes with
+another stimulus. The findings suggest that auraptene may
+exert a part of its cancer chemopreventive activity through
+enhancement of immune function.
+The ingestion of citrus fruit has been reported to be
+beneficial for the reduction of certain types of human cancer.
+Several classes of citrus phytochemicals, including monoterpenes, limonoids and flavonoids, have been recognized as
+effective chemopreventive agents in rodent carcinogenesis
+models. Auraptene (7-geranyloxycoumarin), a coumarin
+derivative have been isolated, from citrus fruit (e.g. grapefruit) and have been demonstrated its anti-tumor promoting
+effect in mouse skin and anti-carcinogenesis activities in rat
+tongue, esophagus and colon [38]. Murakami A. et al. [38]
+reported that Auraptene suppresses superoxide anion (O2
+–
+)
+generation from inflammatory leukocytes in in vitro experiments. In the study, they investigated the anti-inflammatory
+activities of Auraptene using a 12-O-tetradecanoylphorbol13-acetate-treated mouse skin model, and compared them
+with those of Umbelliferone (7-hydroxycoumarin), a
+structural analog of Auraptene that is virtually inactive
+toward O2
+–
+ generation inhibition. Double pre-treatments of
+mouse skin with Auraptene, but not Umbelliferone,
+markedly suppressed edema formation, hydrogen peroxide
+production, leukocyte infiltration, and the rate of proliferating cell nuclear antigen-stained cells. These inhibitory effects
+by Auraptene are attributable to its selective blockade of the
+activation stage, as revealed by single pre-treatment
+experiments. Umbelliferone did not show any inhibitory
+effect. This contrasting activity profile between Auraptene
+and Umbelliferone was rationalized to be a result of their
+distinct differences in cellular uptake efficiencies, i.e. the
+geranyloxyl group in Auraptene was found to play an
+essential role in incorporation. Thus, the findings indicate
+that Auraptene is an effective agent to attenuate the biochemical responsiveness of inflammatory leukocytes, which
+may be essential for a greater understanding of the action
+mechanism that underlies its inhibition of inflammationassociated carcinogenesis.
+Coumarin, in combination with cimetidine, has been
+subjected to separate clinical trials for the treatment of
+advanced renal cell carcinoma, malignant melanoma, and
+non-small cell lung cancer [39]. While objective tumor
+regressions were observed only in renal carcinoma, no
+symptomatic or organ dysfunction toxicity was observed in
+any of the trials. The purpose of this in vitro study was to
+determine the concentrations of coumarin and 7-
+hydroxycoumarin that would be toxic to human peripheral
+blood mononuclear cells (PB-MNC) and human and murine
+bone marrow (GM) progenitor stem cells. Coumarin was
+nontoxic for PB-MNC in concentrations up to 100 mg/mL.
+Concentrations of coumarin or 7-hydroxycoumarin greater
+than or equal to 200 mg/mL produced significant suppression
+of human marrow GM stem cell activity. Coumarin greater
+than or equal to 25 mg/mL produced suppression of murine
+marrow GM stem cell activity. Differences in human and
+murine marrow sensitivity probably reflect interspecies
+differences in metabolism of coumarin. Correlations between
+toxic concentrations in vitro and maximally achievable
+serum concentration in vivo in humans await the results of
+further clinical trials. An immunostimulant therapy with
+coumarin and cimetidine was evaluated in 17 patients with
+advanced malignant melanoma [40, 41]. Induction therapy
+with coumarin 100 mg daily was given for 8 weeks, after
+which cimetidine 1000 mg daily was added. No patients had
+been previously treated with cytotoxic drugs. All patients
+had good performance status. Sixteen patients experienced
+progressive disease, and only one patient showed no change
+lasting for 30 weeks. It is concluded that treatment with this
+schedule of coumarin and cimetidine is without effect in
+advanced malignant melanoma.
+Aflatoxin B1 is a potent hepatocarcinogen produced by
+Aspergillus flavus, a mold that frequently contaminates rice
+and cereal crops in humid areas of the world. In combination
+with hepatitis B, Aflatoxin B1 is thought to be largely
+responsible for the high incidence of hepatocellular
+carcinoma in southeast China and southern Africa. Like most
+chemical carcinogens, the mycotoxin requires bioactivation
+to exert its carcinogenic effects. The ultimate carcinogen of
+Aflatoxin B1 is the exo-8, 9-epoxide, and once generated by
+the actions of CYP, it readily forms adducts with DNA. In
+humans, hepatocellular carcinoma resulting from exposure to
+Aflatoxin B1 is associated with mutations in codon 249 of
+the p53 tumor suppressor gene, whereas in the rat it is
+associated with mutations in codons 12 and 13 of ras
+oncogenes. Although primates and rats are sensitive to
+Aflatoxin B1, the mouse can tolerate high levels of the
+mycotoxin without showing signs of acute liver damage or of
+developing liver cancer. Because it is highly improbable that
+Aflatoxin B1 -producing molds can be eradicated from the
+environment, chemoprevention is an attractive strategy to
+protect individuals from the risk of liver cancer caused by
+exposure to the mycotoxin. Structurally diverse compounds
+can confer resistance to aflatoxin B1 hepatocarcinogenesis in
+the rat. Treatment with either phytochemical coumarin or
+synthetic antioxidants and other drugs has been found to
+increase hepatic aldo-keto reductase activity toward
+Aflatoxin B1 -dialdehyde and glutathione S-transferase (GST)
+activity toward Aflatoxin B1 -8, 9-epoxide in both male and
+female rats [42]. Under the conditions used, the natural
+benzopyrone coumarin was a major inducer of the Aflatoxin
+B1 aldehyde reductase (AFAR) and the aflatoxin-conjugating
+class- GST A5 subunit in rat liver, causing elevations of
+between 25- and 35-fold in hepatic levels of these proteins.
+Induction was not limited to AFAR and GSTA5: treatment
+with coumarin caused similar increases in the amount of the
+class- GST P1 subunit and NAD(P)H:quinone oxidoreductase in rat liver. Immunohistochemistry demonstrated that the
+overexpression of AFAR, GSTA5, GSTP1, and NAD
+(P)H:quinone oxidoreductase affected by coumarin is
+restricted to the centrilobular (periacinar) zone of the lobule,
+sometimes extending almost as far as the portal tract. This
+pattern of induction was also observed with ethoxyquin,
+oltipraz, and trans-stilbene oxide. By contrast, induction of
+these proteins by b-naphthoflavone and diethyl maleate was
+predominantly periportal. Northern blotting showed that
+36 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+induction of these phase II drug-metabolizing enzymes by
+coumarin was accompanied by similar increases in the levels
+of their mRNAs. To assess the biological significance of
+enzyme induction by dietary coumarin, two intervention
+studies were performed in which the ability of the benzopyrone to inhibit either Aflatoxin B1 -initiated preneoplastic
+nodules (at 13 weeks) or Aflatoxin B1 -initiated liver tumors
+(at 50 weeks) was investigated. Animals pretreated with
+coumarin for 2 weeks prior to administration of Aflatoxin
+B1, and with continued treatment during exposure to the
+carcinogen for a further 11 weeks, were protected completely
+from development of hepatic preneoplastic lesions by 13
+weeks. In the longer-term dietary intervention, treatment
+with coumarin before and during exposure to Aflatoxin B1
+for a total of 24 weeks was found to significantly inhibit the
+number and size of tumors that subsequently developed by
+50 weeks. These data suggest that consumption of a
+coumarin-containing diet provides substantial protection
+against the initiation of Aflatoxin B1 hepatocarcinogenesis in
+the rat. This report describes the identification of
+phytochemicals that are effective inducers of Aflatoxin B1
+detoxication enzymes. The study showed that coumarin is
+highly effective at inducing not only AFAR and GSTA5, but
+also certain other drug-metabolizing enzymes. On the basis
+of this information, the hypothesis that enzyme induction by
+coumarin would confer resistance to Aflatoxin B1
+tumorigenesis was tested in the rat. The results from dietary
+intervention showed that coumarin consumption does indeed
+provide protection against initiation of Aflatoxin B1
+hepatocarcinogenesis. The data presented in this report also
+reveal the ability of different phytochemicals and synthetic
+drugs to induce different enzymes in the liver in zone- and
+sex-specific fashions.
+The rat hepatic toxicity of coumarin and methyl
+analogues (3-methylcoumarin (22), 4-methylcoumarin (23)
+and 3, 4-dimethylcoumarin (24)) has been determined in vivo
+and in vitro (freshly-isolated cells) [43]. Coumarin at a dose
+of approximately 1 mmol/kg produced clear histological
+evidence of centrilobular necrosis, while the methyl
+analogues at an equivalent dose were much less toxic. By
+use of a systematic random sampling protocol and quantitative morphometry it was determined that there was a lobar
+variation in the extent of hepatic damage but that this
+exhibited random inter-animal variation. The order of
+cytotoxicity in vitro was identical to that observed in vivo. In
+hepatocytes depleted of glutathione the toxicity of all four
+compounds was increased. This was particularly marked for
+the 3-methyl analogues, such that the order of toxicity was
+different to that observed in vivo and in hepatocytes not
+depleted of glutathione.
+METAL COMPLEXES WITH COUMARINS
+A new, mechanistically based, in vitro strategy involving
+Balb/c 3T3 clone A 31-1-1 mouse embryo fibroblasts, has
+been proposed for the determination of the carcinogenic
+potential of inorganic chemicals, in order to establish priority
+of metal compounds to be tested and, whenever possible, to
+compare the in vitro results with the corresponding in vivo
+data [44]. As a first step in this research, this study reports on
+the cytotoxic effects of 58 metal compounds in the Balb/3T3
+cell line. After harmonisation and standardisation of the
+Balb/3T3 protocol, cells were exposed for 72 hours to a
+fixed dose (100 mM) of 58 individual compounds. The
+cytotoxicity induced by some metal compounds was found to
+be related to their chemical form (for example, Cr(NO3)3 and
+Na2CrO4), suggesting that the Balb/3T3 cell line is a
+valuable cellular model in relation to this aspect of metal
+speciation. The results of the systematic study on the metalinduced cytotoxic effects in the Balb/3T3 cell line could be
+arbitrarily classified into three groups according to the
+degree of cytotoxicity. Group I includes 26 species that
+induced no observable effect or only a slight cytotoxic effect;
+Group II includes 13 metal compounds that exhibited an
+obvious degree of cytotoxicity; and Group III includes 19
+metal species that displayed a strong cytotoxic response.
+Metal compounds of Groups II and III are considered to be
+of the highest priority for setting of dose-effect relationships
+for a subsequent in vitro study on metal-induced concurrent
+cytotoxicity and morphological transformation in the
+Balb/3T3 cell line.
+Nowadays, a lot of studies report complexes of coumarin
+derivatives with metals, which possess biological activity.
+Rare earth metals, especially lanthanium chloride manifest
+an antitumor activity. Furthermore, literature data show that
+the coumarins have also these properties. These previous
+data from literature are in accordance with our investigations
+[45-50]. They give our reason to suppose that complexes of
+coumarins with lanthanides could present interesting
+metalorganic compounds with antitumor activity. As a result
+from our earlier work the cytotoxic profile of some
+complexes of Mendiaxon (7-hydroxy-4-methylcoumarin)
+(25), Warfarin (4-hydroxy-3-(3-oxo-1-phenylbutyl)-2H-1-
+benzopyran-2-one), Coumachlor (4-hydroxy-3-[1-(4-chlorophenyl)-3-oxobutyl]-2H-1-benzopyran-2-one) (26) and
+Niffcoumar (4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]-
+2H-1-benzopyran-2-one) (27) with lanthanides against
+P3HR1, K-562 and THP-1 cell lines was proved [45-50].
+The complexes of cerium, lanthanum and neodymium with
+these coumarin ligands induced approximately 30 %
+reduction of the survival P3HR1 Burkitt lymphoma cells at
+concentration 100 and 400 mM. The cerium and lanthanum
+complexes of Mendiaxon and Niffcoumar induce similar low
+cytotoxic effect on AML derived THP-1 myeloleukemia
+cells.
+Zirconium complexes of Mendiaxon, Warfarin, Coumachlor, and Niffcoumar have been synthesized by us [45].
+Cytotoxic screening by MTT-assay was carried out. Among
+these compounds the zirconium complex of mendiaxon
+showed highest cytotoxic activity against human promyelocytic leukemic HL-60 cells. The inorganic salt was found to
+be active against this cell line.
+Cerium complexes of Umbellipherone, Mendiaxon,
+Warfarin, Coumachlor, and Niffcoumar have been
+synthesized by us [46]. The molecules of the ligands were
+optimized by means of the semiempirical quantum
+mechanical method PM3 to the energetically most stable
+conformers. All the ligands were characterized by molecular
+and submolecular electronic indices and the putative donor
+centers are proposed. Cytotoxic screening by MTT assay
+was carried out. The cerium complexes were found to be
+more active than the inorganic salts.
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 37
+Complexes of cerium(III), lanthanum(III) and neodymium(III) with 4-methyl-7-hydroxycoumarin (Mendiaxon,
+Hymecromone) were synthesized by us [47]. The newly
+synthesized compounds were assayed for acute intraperitoneal and per oral toxicity, influence on blood clotting
+time and the most active complex was investigated for
+spasmolytic activity. The complexes of cerium(III) and
+neodymium(III) showed marginal cytotoxic activity against
+transformed leukemic cell lines (P3HR1 and THP-1) as
+compared to the inorganic salts.
+With the relatively resistant CML derived erythroleukemic K-562 cell line we obtained very interesting in vitro
+results [48-49]. It is noteworthy that the lanthanum and
+neodymium complexes with Niffcoumar exert more
+pronounced cytotoxic effects in comparison to cerium
+complex. They have a strong cell proliferation inhibiting
+effects (only about 30% of the cells were survival). This
+means that the resistant tumor cells may be very good
+inhibited with lanthanide complexes. This means also that
+the spectrum of cytotoxicity of these complexes is different
+from cis-DDP (II) and from Pt (II) complexes. These results
+are of some interest as a possibility to influence of resistant
+tumors. The corresponding lanthanide salts are found to be
+of very low or missing activity. So far we can conclude that
+the structure metal-ligand determines the antitumor spectrum
+of the newly complexes. Those in vitro effects are not so
+clearly expressed as it is in the case of cis-DDP (II).
+Nevertheless their studying is interesting in connection with
+other cell lines and tumors in order to find out the
+differences in their spectrum of activity. Following the above
+encouraging results we decided to continue our recent
+investigations regarding antineoplastic/cytotoxic natural and
+synthetic coumarin derivatives, and especially theire
+cytotoxic lanthanide complexes.
+NATURAL COUMARINS
+Herbs have been used as food and for medicinal purposes
+for centuries. Research interest has focused on various herbs
+that possess hypolipidemic, antiplatelet, antitumor, or
+immune-stimulating properties that may be useful adjuncts in
+helping reduce the risk of cardiovascular disease and cancer.
+In different herbs, a wide variety of active phytochemicals,
+including coumarins, have been identified. Many of the herbs
+contain potent antioxidant compounds that provide
+significant protection against chronic diseases. Today we are
+witnessing a great deal of public interest in the use of herbal
+remedies. Herbal medicine is based on the premise that
+plants contain natural substances that can promote health and
+alleviate illness. In herbal medicine the term herbs is used
+loosely to refer not only to herbaceous plants but also to
+bark; roots; leaves; seeds; flowers and fruit of trees, shrubs,
+and woody vines; and extracts of the same that are valued for
+their savory, aromatic, or medicinal qualities. The botanical
+term herb refers to seed-producing plants with nonwoody
+stems that die down at the end of the growing season. Plants
+have played a significant role in maintaining human health
+and improving the quality of human life for thousands of
+years, and have served humans well as valuable components
+of seasonings, beverages, cosmetics, dyes, and medicines.
+Thousands of coumarins have been identified in plants.
+OH
+COOH COOH
+OH
+COOH
+OH
+O
+OH
+O
+CH
+CH2 C CH3
+O
+O
+RO
+O O
+OR
+O
+R1
+O
+ONa
+O
+CH
+CH2 C CH3
+O
+COOH
+OH
+OH
+O
+OH
+O
+CH
+CH2 C CH3
+O
+Cl
+5 12
+13 14
+6
+7
+19 26
+38 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+Coumarins have extensive biological properties that promote
+human health and help reduce the risk of disease. Coumarins
+act as antioxidants, inhibit platelet aggregation, and act as
+antiinflammatory and antitumor agents.
+Kofinas C, et al. [51] isolated seven coumarins from the
+aerial parts of Tordylium apulum and established their
+structures by spectroscopic means. All compounds were
+tested in vitro for their cytotoxicity against two cell line
+systems. The antiproliferative effects for three of them were
+studied at the level of the cell cycle in asynchronous cells of
+the NSCLC-N6 line with a flow cytometry apparatus.
+Uchiyama T. et al. [52] isolated six coumarins from the roots
+of Dorstenia brasiliensis. Their structures were elucidated on
+the basis of their spectral data. They showed moderate
+cytotoxicity against leukemia cells (L-1210 and HL-60).
+Some coumarin-, flavonol- and flavanon-acetic acids were
+described by Valenti P. et al. [53]. The cytotoxicity of the
+synthesized compounds was determined on human colon
+carcinoma cell line (LoVo) through evaluation of neutral red
+uptake, performed by the Riddel method. All tested
+derivatives were able to induce a statistically significant
+reduction of lysosomal neutral red uptake at 5.10-5 M
+concentration. Some compounds were more active than the
+reference compound flavon-8-acetic acid. Nine known
+compounds, seven kaurenic acid-type diterpenes, a coumarin
+and a flavone, were isolated, from the aerial parts of Mikania
+hirsutissima DC (Compositae) [54]. The structures of new
+norhumulenes were determined by spectroscopic means. The
+cytotoxic activities of isolated compounds against leukemia
+cells (L 1210) were investigated. They showed relatively
+strong cytotoxicity. New cytotoxic compounds, scopoletin
+(28) and the novel coumarino-lignan cleomiscosin A
+were isolated from the wood of Simaba multiflora
+(Simaroubaceae) [55]. Two antileukemic daphnane esters,
+Pimelea factor P2 and the new compound dircin, were
+isolated from the twigs and flowers of Dirca occidentalis A.
+Gray (Thymelaeaceae) [56]. Three lignans, (-)-medioresinol,
+(+)-syringaresinol and (-)-lariciresinol, as well as the
+coumarin daphnoretin, were found to be additional cytotoxic
+constitents of this taxon. A limonoid, clausenolide-1-ethyl
+ether and two coumarins, dentatin and nor-dentatin, were
+isolated from Clausena excavata [57]. Limonoid was
+obtained from the crude ethanol extract of the rhizomes and
+the roots but had not previously been isolated from C.
+excavata and exhibited HIV-1 inhibitory activity. Coumarins
+dentatin and nor-dentatin, with their structures related to an
+anti-HIV-1 substance, (+)-calanolide A (29), were obtained
+from the crude chloroform extract of the rhizomes. Both
+induced toxicity to cells used in a syncytium assay for antiHIV-1 activity. These compounds, did not show any
+cytotoxic effect against KB and BC-1 cell lines (IC50 value >
+20 mg/mL).
+The purpose of the study [58] was to investigate the
+potential neuroprotective effects of myricetin (flavonoid) and
+fraxetin (coumarin) on rotenone-induced apoptosis in SHSY5Y cells, and the possible signal pathway involved in a
+neuronal cell model of Parkinson's disease. These two
+compounds were compared to N-acetylcysteine. The
+viability of cells was assessed by 3-(4, 5-dimethylthiazol-2-
+yl)-2, 5-diphenyltetrazolium bromide (MTT), and
+cytotoxicity was assayed by lactate dehydrogenase (LDH)
+released into the culture medium. Parameters related to
+apoptosis, such as caspase-3 activity, the cleavage of
+poly(ADP-ribose) polymerase and the levels of reactive
+oxygen species were also determined. Rotenone caused a
+time- and dose-dependent decrease in cell viability and the
+degree of LDH release was proportionally to the effects on
+cell viability. Cells were pretreated with fraxetin, myricetin
+and N-acetylcysteine at different concentrations for 30 min
+before exposure to rotenone. Cytotoxicity of rotenone (5
+mM) for 16 h was significantly diminished as well as the
+release of LDH into the medium, by the effect of fraxetin,
+myricetin and N-acetylcysteine, with fraxetin (100 mM) and
+N-acetylcysteine (100 mM) being more effective than
+myricetin (50 mM). Rotenone-induced apoptosis in SHSY5Y cells was detected by an increase in caspase-3 activity
+and in the cleavage of poly(ADP-ribose) polymerase. After
+exposing these cells to rotenone, a significant increase in
+reactive oxygen species preceded apoptotic events. Fraxetin
+(100 mM) and N-acetylcysteine (100 mM) not only reduced
+rotenone-induced reactive oxygen species formation, but also
+attenuated caspase-3 activity and poly(ADP-ribose) polymerase cleavage at 16 h against rotenone-induced apoptosis.
+The effect of fraxetin in both experiments was similar to that
+of N-acetylcysteine. These results demonstrated the
+protective action of fraxetin and suggest that it can reduce
+apoptosis, possibly by decreasing free radical generation in
+SH-SY5Y cells. Myricetin at 100 mM was without any
+preventive effect.
+The cytotoxicity and in-vitro antiviral activity of a series
+of compounds in samples extracted from various parts of the
+Indian holy tree, Bael (Aegle marmelos corr.) were evaluated
+for their efficacy against human coxsackieviruses B1-B6
+[59]. The inhibitory concentrations IC50 for leaves (L1 and
+L2) stem and stem bark (S1, S2, S3 and S4), fruit (F1 and
+F2micro), root and root bark (R1 and R2) and pure
+compound, the marmelide were 1000 mg/mL (for L1 and
+L2), 1000 mg/mL (for S1, S2, S3 and S4), 1000 mg/mL (for
+F1) and 500 mg/mL (for F2) 250 mg/mL (for R1) and 500
+mg/mL (for R2) and 62.5 mg/mL for marmelide respectively
+by plaque inhibition assay at 96 hrs. On the other hand, the
+corresponding value for Ribavirin, a standard antiviral drug,
+was 2000 mg/mL for the same viruses at the same time
+period. These concentrations did not exhibit any toxicity to
+Vero cells, the host subtoxic concentrations were 5000
+mg/mL for leaf and stem fractions 2000 mg/mL for fruit
+fractions 500 and 1000 mg/mL for root fractions 250 mg/mL
+for marmelide and 2000 mg/mL for Ribavirin. The cytotoxic
+concentrations were 8000 mg/mL for leaf and stem
+compounds 4000 mg/mL for fruit; 1000 mg/mL and 2000
+mg/mL for root 500 mg/mL for marmelide and 4000 mg/mL
+for ribavirin at 96 hrs. Additionally pretreatment of host
+cells, virus inactivation, yield reduction and effect of time of
+addition assays against coxsackievirus B3, suggested that
+marmelide was most effective as a virucidal agent besides
+interfering at early events of its replicative cycle like
+adsorption, penetration, at various steps in single cycle
+growth curve and effect of time of addition.
+Geiparvarin (30), containing coumarin moiety, is an
+antiproliferative compound isolated from the leaves of
+Geijera parviflora, and may represent a new drug which
+targets tubulin. To better explore the potential use of this
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 39
+agent, Miglietta A. et al. [60] investigated the antimicrotubular and cytotoxic effects of new synthetic aromatic
+derivatives of geiparvarin. These drugs inhibited polymerization of microtubular protein, particularly when the
+assembly was induced by paclitaxel. The microtubular
+network organization of fibroblasts was altered more
+effectively by some drugs. Normal microtubule architecture
+completely disappeared when the cells were treated
+simultaneously with drugs and paclitaxel: microtubules
+depolymerized or were reorganized into bundles, in a similar
+but more disarrayed fashion than that observed after
+treatment with paclitaxel alone. Cytotoxicity studies showed
+a dose-dependent effect, whereas combined administration of
+drugs and paclitaxel increased cytotoxicity, more effectively
+in paclitaxel versus derivatives administration alone. Some
+simple geiparvarin analogues, in which the coumarin moiety
+has been replaced with an X-substituted benzene ring, are
+described [61]. The compounds were tested on LoVo cells
+(human colon carcinoma cell line) and some of them show a
+cytotoxicity comparable with that of the prototype. A QSAR
+analysis was also attempted, but it did not provide
+satisfactory results, mainly because of the limited range of
+variation of the biological activity.
+Bioassay-guided fractionation of a CH2Cl2-methanol
+extract of the bark of Ochrocarpos punctatus resulted in the
+isolation of seven new coumarins, ochrocarpins A-G, three
+new benzophenone derivatives, ochrocarpinones A-C, and
+five known coumarins, mammea A/AC cyclo F, mammea
+A/AD cyclo D, mammea A/AB cyclo F, mammea A/AA
+cyclo F, mammea A/AB cyclo D and 15, 16-dihydro-16-
+hydroperoxyplukenetione [62]. The structures of the
+compounds were established on the basis of extensive 1D
+and 2D NMR spectroscopic data interpretation. All compounds exhibited cytotoxicity against the A2780 ovarian
+cancer cell line. Two new naturally occurring coumarins,
+isomesuol and mammearin A, together with nine known
+Mammea coumarins were isolated from the ethilacetat
+extract of the leaves and twigs of Mammea harmandii [63].
+The coumarins showed cytotoxicity against a panel of
+mammalian cancer cell lines. Their structures were determined by spectroscopic methods. The assignments of 13C
+NMR signals of isomesuol, which was isolated for the first
+time as a natural product, have been revised.
+Five new coumaronochromones, euchretins J-N, along
+with twelve known compounds, euchretins A, C, D, F, H, I,
+(+)-matrine, (-)-cytisine, quercetin (31), trifolirhizin, retusin
+8-methyl ether, and genistein, were isolated from the
+methanolic extracts of Euchresta formosana [64]. The structures of the compounds were established by spectroscopic
+analyses. The compounds were demonstrated to have cytotoxicity against 59T cell line. Bocca C. et al. [65] investigated biological activity of ferulenol, a prenylated 4-
+hydroxycoumarin from Ferula communis. Ferulenol
+stimulates tubulin polymerization in vitro, and inhibits the
+binding of radiolabeled colchicine to tubulin. It rearranges
+cellular microtubule network into short fibres, and alters
+nuclear morphology. Remarkably, ferulenol exerts a dosedependent cytotoxic activity against various human tumor
+cell lines. From the root bark of Millettia pervilleana, which
+had shown significant cytotoxic activity, a 3-phenylcoumarin, named pervilleanine (32), two new pterocarpans,
+pervilline and pervillinine, and one known, emoroidocarpan,
+were isolated in addition to rotenone and 3alpha-hydroxyrotenone [66]. The anticancer activity of two previously
+isolated isoflavanones, pervilleanone and 3'-O-demethylpervilleanone is reported. Chemical investigation of the
+ethanol extract of Morus alba L. (Moraceae), as guided by
+free radical scavenging activity, furnished 5, 7-dihydroxycoumarin 7-methyl ether, two prenylflavones, cudraflavone
+B and cudraflavone C, and oxyresveratrol [67]. Compounds
+5, 7-dihydroxycoumarin 7-methyl ether and oxyresveratrol
+showed superoxide scavenging effects with the IC50 values
+of 19.1 +/- 3.6 and 3.81 +/- 0.5 mM, respectively. Compound
+oxyresveratrol exhibited a DPPH free radical scavenging
+effect (IC(50) = 23.4 +/- 1.5 mM). Compounds cudraflavone
+B and oxyresveratrol showed hepatoprotective effects with
+EC50 values of 10.3 +/- 0.42 and 32.3 +/- 2.62 mM,
+respectively, on tacrine-induced cytotoxicity in human liverderived Hep G2 cells.
+Three new coumarin derivatives, compounds, three new
+furanocoumarins and a novel dioxocane derivative were
+isolated from the fern Cyclosorus interruptus (Willd.) H. Ito
+[68]. Based on spectrometric and spectroscopic analysis
+(FAB or El mass spectrometry as well as 1D and 2D
+NMR experiments) their structures were characterised as
+5,7-dihydroxy-6-methyl-4-phenyl- 8-(3-phenylpropionyl)-1
+-benzopyran-2-one (33), 5, 7-dihydroxy-6-methyl-4-phenyl8-(3-phenyl-trans-acryloyl)-1-benzopyran-2-one (34), 5,7-
+dihydroxy-8-(2-hydroxy-3-phenylpropionyl) - 6-methyl-4-
+phenyl-1-benzopyran-2-one (35), 8-benzyl-5, 8-dihydroxy6-methyl-4-phenylfuro[2,3-h]-1-benzopyran-2,9 - dione, 8-
+benzyl-5,8 beta, 9 beta-trihydroxy-6-methyl-4-phenyl-8,9-
+dihydro-furo[2, 3-h]-1-benzopyran-2-one, 8-benzyl-5, 8 beta,
+9 alpha-trihydroxy-6-methyl-4-phenyl-8,9-dihydro-furo[2, 3-
+h]-1-benzopyran-2-one and 5,11-dihydroxy-6-methyl-4-
+phenyl-11-(1-phenylmethyl)-7,10-dioxocane[5,6-h]-1-benzopyran-2, 12-dione. For these compounds the authors propose
+the trivial names interruptins A-F. Compounds 5,7-
+dihydroxy-6-methyl-4-phenyl-8-(3- phenylpropionyl) -1 -
+benzopyran-2-one and 5, 7-dihydroxy-6-methyl-4-phenyl8-(3-phenyl-trans-acryloyl)-1-benzopyran-2-one, were cytotoxic to a KB cell line.
+The CH2Cl2 extract of the stem bark of Kielmeyera
+albopunctata was subjected to a bioassay-linked LC-MS
+dereplication procedure using the KB cell line to afford the
+new coumarins 4-(1-methylpropyl)-5, 7-dihydroxy-8-(4-
+hydroxy-3-methylbutyryl)-6-(3-methylbut-2-enyl)chromen-2-
+one, 9-(1-methylpropyl)-4-hydroxy-5-(4-hydroxy-3-methylbutyryl)-2-(1-hydroxy-1-methylethyl)-2,3-dihydrofuro-[2, 3-
+f]chromen-7-one and 5,7-dihydroxy-8-(4-hydroxy-3-methylbutyryl)-6-(3-methylbut-2-enyl)-4- phenylchromen -2-one
+[69]. Coumarins 4-(1-methylpropyl)-5, 7-dihydroxy-8-(4-
+hydroxy-3-methylbutyryl)-6-(3-methylbut-2-enyl)chromen -
+2-one and 5, 7-dihydroxy-8-(4-hydroxy-3-methylbutyryl)-6-
+(3-methylbut-2-enyl)-4-phenylchromen-2-one showed moderate cytotoxicity, while 9-(1-methylpropyl)-4-hydroxy-5-(4-
+hydroxy-3-methylbutyryl)-2-(1 -hydroxy -1 -methylethyl)- 2,
+3-dihydrofuro[2, 3-f]chromen-7-one was inactive at 20 mg/
+mL.
+The ether soluble fraction of the roots of Ononis
+vaginalis Vahl. Symb. afforded three new compounds: 3-
+40 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+hydroxy-4, 9-dimethoxycoumestan, maginaldehyde [2-(4-
+hydroxy-2-methoxyphenyl)-5, 6-dimethoxy-3-benzofurancarboxaldehyde] and 5, 7, 4'-trihydroxy-4-styrylcoumarin
+[70]. The styrylcoumarin derivative showed significant
+antiviral activity against Herpes simplex type 1 and weak
+cytotoxicity. A new coumarin, 5-(4-hydroxyphenethenyl)-4,
+7-dimethoxycoumarin (36) was isolated from the combined
+ethylacetate extracts of the root bark, root wood and stem
+bark of Monotes engleri, and found to be cytotoxic against
+two cell lines in a human tumor panel [71]. Its structure was
+determined on the basis of spectroscopic methods. Three
+coumarins and three known mansonones were isolated from
+the heartwood of Mansonia gagei Drumm [72]. The
+structures of the three coumarins were elucidated as 3, 8-
+dimethyl-5-isopropyl-6-methoxycoumarin (mansonrin A)
+(37), 3, 8-dimethyl-5-isopropyl-6-hydroxycoumarin (mansorin B) (38) and 2, 3-dihydro-3, 6, 9-trimethyl naphtho[1, 8-
+bc]pyran-7-oxa-8-one (mansorin C) by analyses of physical
+properties and spectroscopic data. The cytotoxicity of the
+isolated compounds against brine shrimp Artemia salina
+Linn. was also evaluated. Salloum R.M. et al. [73] examined
+the effects of a new antiangiogenic isocoumarin, as a
+radiation modifier in vitro and in vivo. The studies demonstrate that this isocoumarin is cytotoxic to human umbilical
+vein endothelial cells (HUVECs) but not to Lewis lung
+carcinoma (LLC) cells nor Seg-1, esophageal adenocarcinoma cells, in clonogenic survival assays.
+N-Tosyl-l-phenylalanyl chloromethyl ketone, an inhibitor
+of chymotrypsin-like serine protease (CSP), prevents DNA
+fragmentation and apoptotic cell death in certain blood cell
+lines and was reported to reduce hippocampal neuronal
+damage caused by cerebral ischemia. Movsesyan V.A. et al.
+[74] examined the role of CSP on recovery after lateral fluid
+percussion-induced traumatic brain injury (TBI) in rats, as
+well as on cell survival in various in vitro models of
+neuronal cell death. TBI caused significant time-dependent
+upregulation of CSP activity, but not trypsin-like serine
+protease activity in injured cortex. Intracerebroventricular
+administration of N-tosyl-l-phenylalanyl chloromethyl
+ketone to rats after TBI did not significantly affect deficits of
+spatial learning but exacerbated motor dysfunction after
+injury. Moreover, N-tosyl-l-phenylalanyl chloromethyl
+ketone did not prevent apoptotic neuronal cell death caused
+by serum/K(+) deprivation or by application of staurosporine
+or etoposide in cultured rat cerebellar granule cells, rat
+cortical neurons, or in the human neuroblastoma SH-SY5Y
+cell line. Instead, at doses from 10 to 100 mM, N-tosyl-lphenylalanyl chloromethyl ketone was cytotoxic in all
+cultures tested. Similar results were obtained in cultures
+treated with another CSP inhibitor, 3, 4-dichloroisocoumarin
+(39). Cell death caused by CSP inhibitors was neither
+caspase-dependent nor associated with oligonucleosomal
+DNA fragmentation. Taken together, these data do not
+support a neuroprotective role for CSP inhibitors. Rather,
+they suggest that CSPs may serve an endogenous neuroprotective role, possibly by modulating necrotic cell death.
+NATURAL ISOCOUMARINS
+Devienne K.F. et al. [75] investigated structural parameters that could affect the cytotoxicity of isocoumarins
+similar to 9, 10-dihydroxy-5, 7-dimethoxy-1H-naphtho(2,
+3c)pyran-1-one (paepalantine) (40). Paepalantine has antimicrobial activity, as well as significant in vitro cytotoxic
+effects in the McCoy cell line. Two other natural and two
+semi-synthetic isocoumarins with similar structures obtained
+from the capitula of Paepalanthus bromelioides were tested
+on the same cell line by the neutral red assay. Substitution of
+the 9 and/or 10-hydroxy group made these compounds less
+cytotoxic. A new isocoumarin with antimicrobial activity
+was isolated from Paepalanthus vellozioides (a native
+Brazilian plant) and called paepalantine [76]. This study was
+carried out to assess the mutagenic activity of this new agent
+in assays with Salmonella typhimurium TA100, TA98, and
+TA102 and in Chinese hamster ovary (CHO) cell cultures, as
+well as cytotoxicity to McCoy cells. Paepalantine caused a
+significant dose-dependent increase in the frequency of
+revertants in the three strains used in the assay, both with and
+without S9 mix, in concentrations varying from 2 to 128
+mg/plate. The mutagenicity was confirmed in assays with
+CHO cells treated in the G1, S, and G2 phases of the cell
+cycle. There was an increase in the chromosomal aberration
+frequency, mainly in the G2 phase. Furthermore, the mitotic
+index of the treated cultures (40, 80, and 160 mg/mL) was
+significantly lower, indicating cytotoxicity. The midpoint
+cytotoxicity values of McCoy cells by the neutral red (NR)
+and microculture tetrazolium (MTT) techniques resulted in a
+NR50 and MTT50 of 30 and 38 micrograms mg/mL,
+respectively. Alterations to the paepalantine structure are
+suggested to reduce its mutagenic and cytotoxic activity in
+investigations for its antineoplastic potential. Dioscorone A
+and a new isocoumarin derivative were isolated from the
+rhizome of Dioscorea futschauensis R. Kunth [77]. The
+structures of the compounds were elucidated on the basis of
+detailed analysis of NMR spectra. Their anti-fungal activity
+against Pyricularia oryzae and cytotoxic activity on K562
+and HCT-15 cell lines were evaluated in vitro.
+NATURAL PYRANOCOUMARINS
+A new (+)-norepinephrine derivative, syncarpamide,
+along with a known coumarin, (+)-S-marmesin (41), and one
+known alkaloid, decarine, have been isolated from the stem
+of Zanthoxylum syncarpum [78]. The structure of syncarpamide was elucidated on the basis of 1D and 2D NMR, MS,
+IR, optical rotation, and CD analyses. Its absolute stereochemistry was elucidated by synthesis of its enantiomer and
+subsequent comparison of CD data. Characterizations of
+compounds (+)-S-marmesin and decarine were based on
+spectral analysis and comparison with reported data.
+Compounds syncarpamide and decarine showed antiplasmodial activity, with IC50 values of 2.04 and 1.44 mM
+against Plasmodium falciparum D(6) clone and 3.06 and
+0.88 mM against P. falciparum W(2) clone, respectively.
+Decarine showed cytotoxicity at 56.42 mM, whereas
+syncarpamide was not cytotoxic at 10.42 mM. Syncarpamide
+was tested for hypotensive activity, but no activity was
+observed. 3, 5-Dimethoxy-4-geranyloxycinnamyl alcohol, 8-
+methoxy-N-methylflindersine, xanthyletin (42) and sesamin
+have been isolated from petroleum ether extract of the stem
+bark of Zanthoxylum rhesta [79]. The petroleum ether
+extract and 8-methoxy-N-methylflindersine showed cytotoxicity on brine shrimp nauplii. Four pyranocoumarins:
+dipetaline, alloxanthoxyletin (43), xanthoxyletin (44) and
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 41
+xanthyletin; and two lignans: sesamin and asarinin were
+isolated from the Northern prickly ash, Zanthoxylum americanum [80]. To varying degrees, all inhibited the incorporation of tritiated thymidine into human leukaemia (HL-60)
+cells. Dipetaline was the most active with an IC50 of 0.68
+ppm, followed by alloxanthoxyletin (1.31 ppm), sesamin
+(2.71 ppm), asarinin (4.12 ppm), xanthoxyletin (3.48 ppm)
+and xanthylletin (3.84 ppm).
+Cnidium monnieri is a plant, which grows in China
+whose seeds are used in classical traditional Chinese
+medicine for skin problems and as a natural sex booster.
+Cnidium is known in China as She Chuang Zi. Cnidium seed
+contains several compounds including coumarins.
+Preliminary studies show some of the compounds in cnidium
+may have anti-histamine, anti-itch, anti-fungal, and antibacterial effects, along with having an influence on the
+pituitary-adrenocortex axis. Additional studies on rodents
+indicate that cnidium may improve bone strength (coumarins
+from fruits of cnidium inhibit formation and differentiation
+of multinucleated osteoclasts of rats). Cnidium may also
+have anti-cancer properties. Cnidii monnieri Fructus
+[Cnidium monnieri (L.) Cusson] is used as a tonic agent in
+traditional Chinese medicine [81]. In a Chinese herbcytotoxicity screening test, the ethanol extract of Cnidii
+monnieri Fructus exhibited strong effects on human
+leukemia (HL-60), cervical carcinoma (HeLa) and colorectal
+carcinoma (CoLo 205) cells. Then, the Cnidii monnieri
+Fructus extract was subjected to silica gel column
+chromatography and recrystallization to give five coumarins:
+osthol (45), imperatorin (46), bergapten (47), isopimpinellin
+(48), and xanthotoxin (49). Among these compounds, osthol
+showed the strongest cytotoxic activity on tumor cell lines.
+The structure-activity relationship established from the
+results indicated that the prenyl group has an important role
+in the cytotoxic effects. However, imperatorin showed the
+highest sensitivity to HL-60 cells and the least cytotoxicity
+to normal PBMCs. Osthol and imperatorin both caused
+apoptotic bodies, DNA fragmentation, and enhanced PARP
+degradation in HL-60 cells by biochemical analysis. These
+results indicate that osthol and imperatorin can induce
+apoptosis in HL-60 cells. Therefore, osthol and imperatorin
+are cytotoxic marker substances in the fruits of Cnidium
+monnieri.
+Four flavonoid glycosides, flavaprin, evodioside B,
+vitexin, and hesperidin, as well as the coumarins bergapten,
+xanthotoxin, and isopimpinellin, the lignan simplexoside, the
+steroids beta-sitosterol and daucosterol, the limonoids
+isolimonexic acid and limonin, and uracil and myo-inositol
+have been isolated from Euodia daniellii [82]. The structures
+of these compounds were established from spectral data.
+Among the isolates, bergapten showed cyclooxygenase-2
+inhibitory activity with an IC50 value of 6.2 mg/mL.
+Flavonoids isolated from this plant exhibited no cytotoxic
+activity against the human tumor cell lines, A549, SKOV-3,
+SKMEL-2, XF498, and HCT15.
+Four known coumarins, dentatin, nor-dentatin, clausenidin and xanthoxyletin, and six known carbazole derivatives,
+O
+OH
+O
+CH
+CH2 C CH3
+O
+NO2
+O
+O
+O O
+O
+O O O
+Me
+O Me
+Me
+O
+HO O
+OH O
+OH
+OH
+OH
+O
+Cl
+Cl
+O
+OH OH
+OMe
+MeO
+O
+Me
+O
+O
+OH
+O O
+O O O
+MeO O O
+O
+27
+29 Calanolide A
+30
+31 39 40
+41
+5
+8
+42 Xanthyetin
+44 5- Methoxy-xanthyletin (xanthoxyletin)
+43
+42 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+3-formylcarbazole, mukonal, 3-methoxycarbonylcarbazole,
+murrayanine, 2-hydroxy-3-formyl-7-methoxycarbazole and
+clauszoline J were isolated from Clausena excavata [83].
+Compounds dentatin and 3-formylcarbazole were first
+isolated from the crude chloroform extract of the rhizomes.
+All compounds demonstrated no cytotoxicity against KB and
+BC-1 cell lines. Five coumarins (seselin (50), 5-methoxyseselin (51), suberosin (52), xanthyletin and xanthoxyletin)
+were isolated from the roots of Plumbago zeylanica [84]. All
+coumarins were not previously found in this plant.
+Cytotoxicity of these compounds to various tumor cells lines
+was evaluated, and they were significantly suppressed
+growth of Raji, Calu-1, HeLa, and Wish tumor cell lines.
+The synthesis of known and new coumarins in the seselin
+and xanthyletin series is described [85]. The cytotoxic
+activity of the compounds was carried out in vitro on L-1210
+cells. The most active compounds in the seselin series and in
+the xanthyletin series were determined. Structure-activity
+relationships are discussed. Gunatilaka, A.A. et al. [86]
+isolated twelve coumarins from plants of the Rutaceae
+collected in Sri Lanka. Coumarins have been subjected to a
+mechanism-based anticancer bioassay employing DNA
+repair-deficient and repair-proficient yeasts. Of these, seselin
+and xanthyletin were found to be active. Seselin also
+exhibited moderate cytotoxicity. Four coumarin derivatives,
+theraphins A, B, C, and D, along with three known
+xanthones, 2-hydroxyxanthone, 1, 7-dihydroxyxanthone, and
+5-hydroxy-1-methoxyxanthone, were isolated from the bark
+of Kayea assamica (Clusiaceae) native to Myanmar [87].
+Their structures were determined using spectroscopic and
+chemical techniques. The absolute configuration of
+theraphins A was established by the modified Mosher ester
+method. Theraphins A, B, and C exhibited good cytotoxicity
+against Col2, KB, and LNCaP human cancer cell lines.
+Theraphin D showed mild activity only against the KB cell
+line.
+NATURAL FUROCOUMARINS
+Bark samples from several individuals of the understory
+tree, Stauranthus perforatus (Rutaceae), were collected from
+lower montane moist forest at c.a 1350 m a.s.l. at
+Monteverde, Costa Rica [88]. The cytotoxic compounds
+proved to be the quinoline alkaloids skimmianine and
+veprisine, and the furocoumarin heraclenin (53). Fractionation of the methanol extract of Angelica dahurica Benth et
+Hook resulted in the isolation of six furocoumarins,
+imperatorin, isoimperatorin (54), (+/-)-byakangelicol, (+)-
+oxypeucedanin (55), (+)-byakangelicin and (+)-aviprin [89].
+Among these, compounds imperatorin and (+)-byakangelicin
+exhibited strong hepatoprotective activities, displaying EC50
+values of 36.6 +/- 0.98 and 47.9 +/- 4.6 mM, respectively.
+Compounds (+/-)-byakangelicol and (+)-oxypeucedanin
+showed moderate activities with EC50 values of 112.7 +/-
+5.35 and 286.7 +/- 6.36 mM, respectively. Silybin as a
+positive control showed the EC50 value with 69.0 +/- 3.4 mM.
+Comparison of hepatoprotective activities for six
+furocoumarins suggested that oxy-substitution at the C-9
+position increased the hepatoprotective activity.
+Angelicin (56), a naturally occurring furanocoumarin,
+that showed antifungal activity, was considered as a lead
+structure for a group of synthetic coumarins [90]. Antifungal
+activities of the synthesized coumarins and angelicin
+derivatives were reported against Candida albicans,
+Cryptococcus neoformans, Saccharomyces cerevisiae and
+Aspergillus niger. Human cell line cytotoxicity of several
+coumarins was evaluated against KB cells. Angelicin and
+several potent antifungals showed to be non-toxic in this
+assay. The methanolic extract from the roots of Angelica
+furcijuga Kitagawa was found to exhibit protective effects on
+liver injury induced by D-galactosamine (D-GalN) and
+lipopolysaccharide (LPS) [91]. From the methanolic extract,
+seventeen coumarins, two phenylpropanoids, and two
+polyacetylenes were isolated and examined their in vitro and
+in vivo hepatoprotective effects and inhibitory activity of NO
+production in macrophages. A acylated khellactone,
+isoepoxypteryxin, showed protective activity against DGalN-induced cytotoxicity in primary cultured rat hepatocytes. On the other hand, six acylated khellactones
+(hyuganins A, B, C, and D, anomalin, isopteryxin) and two
+polyacetylenes [(-)-falcarinol and falcarindiol] strongly
+inhibited NO production induced by LPS in cultured mouse
+peritoneal macrophages, and also other acylated khellactones
+(isoepoxypteryxin, pteryxin, and suksdorfin (57)) and a
+coumarin glycosides (praeroside II) were found to show the
+activity. By comparison of the inhibitory activities for
+acylated khellactones with those for other coumarins, acyl
+groups were found to be essential to exerting potent activity.
+Aqueous extracts of Angelica sinensis root, a herb
+commonly used in the treatment of vitiligo in Traditional
+Chinese Medicine, were tested for their activity on mouse
+melanocyte proliferation in culture [92]. At concentrations of
+0.5-2500 _g/mL, these extracts were not able to stimulate
+melanocyte cell division. On the contrary, they exerted a
+general cytotoxicity to the cells at higher concentrations.
+Cytotoxicity was reduced by prior treatment of the extract
+with polyvinylpolypyrrolidone, which was shown by thin
+layer chromatography to reduce the coumarin content.
+A coumestan derivative, psoralidin (58) was found to be
+a cytotoxic principle of the seeds of Psoralea corylifolia L.
+(Leguminosae) with the IC50 values of 0.3 and 0.4 mg/mL
+against the HT-29 (colon) and MCF-7 (breast) human cancer
+cell lines, respectively [93]. A coumarin, angelicin was also
+isolated as a marginally cytotoxic agent along with an
+inactive compound, psoralen from the plant. The isolates
+were not active against the A541 (lung) and HepG2 (liver
+hepatoma) cancer cell lines. The IC50 values of psoralidin
+against SNU-1 and SNU-16 carcinoma cell lines were 53
+and 203 mg/mL, respectively, indicating cytotoxic activity
+against stomach carcinoma cell lines [94]. Bioassay-guided
+fractionation of the H2O extract of the seeds of Psoralea
+corylifolia furnished one hepatoprotective compound,
+bakuchiol, together with two moderately active compounds,
+bakuchicin and psoralen, on tacrine-induced cytotoxicity in
+human liver-derived Hep G2 cells [95]. The EC50 values of
+the compounds are 1.0, 47.0, 50.0 mg/mL, respectively.
+Silymarin as a positive control showed the EC50 value with
+5.0 mg/mL.
+The synthesis of new tetrahydrobenzo- and benzopsoralen derivatives carrying at position 5 or 8 of the furocoumarin moiety a methoxy, hydroxy, or dimethylaminopropoxy side chain was reported [96]. The study of
+their photoantiproliferative activity and ability to induce
+Synthetic and Natural Coumarins as Cytotoxic Agents Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 43
+erythema on guinea pig skin allows to state that the
+derivatives carrying the dimethylaminopropoxy side chain
+exhibit a very interesting photobiological pattern. Indeed, if
+compared with the lead compounds 5-MOP and 8-MOP,
+they exert a higher cytotoxic activity devoid of significant
+skin phototoxicity. Between them, the more interesting
+appears to be a nonphototoxic compound whose antiproliferative activity on HeLa cells is 2 orders of magnitude
+higher than that of the reference drug 8-MOP. Photoreaction
+experiments have revealed that, like classic furocoumarins,
+AT is the preferred nucleic base pair in its photobinding.
+Moreover, the extent of covalent photoaddition to DNA
+correlates well with the photobiological activity. Evaluation
+of the ability to induce DNA cleavage in the presence of
+human topoisomerase II has suggested that this enzyme is
+probably the target accountable for this effect. The synthesis,
+DNA binding and in vitro photoinduced cytotoxic properties
+of a number of minor groove and sequence-directed psoralen
+and coumarin conjugates of pyrrole- and imidazolecontaining distamycin analogues are described [97]. Results
+from an ethidium displacement assay on calf thymus and T4
+DNA suggest that like distamycin these agents bind strongly
+to the minor groove of DNA. The data show that these
+conjugates exhibit a lower AT preference than distamycin
+and the decrease is significantly greater for the imidazolecontaining compounds. All of the compounds along with 8-
+methoxypsoralen, were relatively noncytotoxic in the dark
+with only the imidazole-psoralen compound giving an IC50
+value below 100 mM. Following UV activation, all
+compounds showed an increased potency with photoinduced
+dose modifications in the human chronic myeloid leukemia
+K562 cells under the UV irradiation conditions employed.
+The psoralen-pyrrole analogue was over 300 times more
+active following UV activation than agent 8-methoxypsoralen, 250 times more potent than the corresponding
+coumarin conjugate, and 15-fold more potent than its
+imidazole analogue. Data from CD dilution (with DMF)
+studies show that upon irradiation with light at 366 nm, the
+O O
+O
+Me
+O
+O O
+O
+Me
+O O O
+R
+O O O
+CH3
+H3C
+CH3
+O O O
+O
+O
+H
+CH3
+CH3 O O O
+O
+CH3
+CH3
+O O O
+R2
+R1
+O O O
+O O O
+O
+O Me
+O
+O
+HO O O
+O
+OH
+47
+49 50 Seselin R=H
+51 5-methoxyseselin R=OMe
+52
+53 54
+55 Oxypeucedanin
+R1=OCH2CH(O)C(CH3)2 (epoxide); R2=H 56
+57
+58
+MeO O O
+O O
+R1
+R2
+O
+46 Imperatorin R O 2=H; R1
+45
+48 Isopimpinellin R1=OMe; R2=OMe
+44 Curr. Med. Chem. – Anti-Cancer Agents, 2005, Vol. 5, No. 1 Irena Kostova
+compounds bind irreversibly to DNA. As expected coumarin
+conjugates did not produce any cross-linked DNA under any
+conditions. Since the psoralen conjugates are more phototoxic than their coumarin analogues, these results suggest
+that DNA interstrand cross-link formation may be an
+important mechanism by which they exert their biological
+activity in cells.
+Guilet D. et al. [98] isolated six coumarins from the fruits
+and the stem bark of Calophyllum dispar (Clusiaceae). The
+structures of these minor components were established by
+means of spectroscopic analysis, including extensive 2D
+NMR studies. Some of these coumarins exhibited a significant cytotoxic activity against KB cells. Eight new 4-
+phenylfuranocoumarins have been isolated from the stem
+bark and the fruits of Calophyllum dispar, together with
+three known coumarins [99]. The structures of the
+compounds were established by means of spectroscopic
+analysis, including extensive 2D NMR studies. Some of
+these furanocoumarins exhibited significant cytotoxic
+activity against KB cells. The studies on the stem bark of
+Calophyllum mucigerum (Guttiferae) have yielded a new
+coumarin mucigerin, a prenylated xanthone cudraxanthone C
+and the common steroidal triterpenes friedelin and stigmasterol [100]. Structural elucidations of these compounds
+were achieved using 1H NMR, 13C NMR, DEPT, COSY,
+HETCOR and HMBC experiments while MS gave the
+molecular masses. Cytotoxic assays using CEM-SS cell line
+(T-lymphoblastic leukemia) on the crude extracts of the stem
+bark indicated some activity. The crude extracts were also
+found to be moderately toxic against the larvae of Aedes
+aegypti. In a search for anti-tumor-promoting agents,
+Itoigawa M. et al. [101] carried out a primary screening of
+ten 4-phenylcoumarins isolated from Calophyllum inophyllum L. (Guttiferae), by examining their possible inhibitory
+effects on Epstein-Barr virus early antigen (EBV-EA)
+activation induced by 12-O-tetradecanoylphorbol-13-acetate
+in Raji cells. All of the compounds tested in this study
+showed inhibitory activity against EBV, without showing
+any cytotoxicity. Calocoumarin-A showed more potent
+activity than the other compounds tested. Furthermore,
+calocoumarin-A exhibited a marked inhibitory effect on
+mouse skin tumor promotion in an in vivo two-stage
+carcinogenesis test. The results of the investigation indicate
+that some of these 4-phenylcoumarins might be valuable as
+potential cancer chemopreventive agents (anti-tumorpromoters).
+Plants have formed the basis for the treatment of diseases
+in traditional medicine systems for thousands of years, and
+continue to play a major role in the primary health care of
+about 80% of the world's inhabitants. The ability of chemical
+agents to prevent the development of cancer has provoked
+much interest as a means of reducing the incidence of
+neoplastic disease in human populations. In the area of
+cancer treatment, many claims have been made for the
+beneficial effects of plants, though many of these claims may
+be viewed with some skepticism since cancer, as a specific
+disease entity, is likely to be poorly defined in terms of
+folklore and traditional medicine. Nevertheless, the
+discovery and development of efficacious anticancer agents,
+provided convincing evidence that plants could be a source
+of novel cancer chemotherapeutic agents. While the natural
+product isolated as the active compound might not be
+suitable for development as an effective drug, it can provide
+a suitable lead for conversion into a clinically useful agent.
+CONCLUSION
+Coumarins comprise a vast array of biologically active
+compounds ubiquitous in plants, many of which have been
+used in traditional medicine for thousands of years. The
+coumarins constitute an important class of compounds, with
+several types of pharmacological agents possessing anticancer, anti-HIV, anticoagulant, spasmolytic and antibacterial activity among others. Of the many actions of
+coumarins, antioxidant and antiproliferative effects stand
+out. A large number of structurally novel coumarin derivatives have ultimately been reported to show substantial
+cytotoxic activity in vitro and in vivo. Moreover, the
+inhibitory action on inflammatory cells appears to surpass
+any other clinically available compounds. Given that certain
+substituents are known to be required or increase their
+actions, the therapeutic potential of select coumarins is fairly
+obvious.
